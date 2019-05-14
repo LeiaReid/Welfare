@@ -1,3 +1,17 @@
+## Navigation
+
+[Introduction](https://leiareid.github.io/austerity/)
+
+[Devolved funding & education](https://leiareid.github.io/funding/)
+
+[Teaching](https://leiareid.github.io/teaching/)
+
+[Mental Health and mobility, in education](https://leiareid.github.io/example/)
+
+[Child Mobility Comparison](https://leiareid.github.io/comparison/)
+
+[Sources](https://leiareid.github.io/sources/)
+
 ## Austerity's affect on child welfare spending, and child mobility
 
 Although education was protected from austerity measures, welfare was not. Since the beginning of austerity welfare has taken some of the biggest hits. These cuts hit the most socioeconomically deprived in Britain. This matters to child mobility because this is the basic start we give all of our children in Britain. If we cannot level the playing field, or provide enough money for families to support children, children will suffer and continue to live in poverty. 
@@ -21,16 +35,16 @@ In 2014, the Government set a cap on the total amount forecast to be spent on se
  
 The cap was reset in the July 2015 Budget and we made a formal assessment of performance against it in the November 2016 Autumn Statement, which showed it being breached in all years. The Government then introduced a new welfare cap, which was set to only apply in 2021-22. This cap was re-set in November 2017 following the beginning of a new Parliament, with the latest cap applying to spending in 2022-23. This is the dotted figure.
 
-##
+## Navigation
 
-GB expenditure and claimant figures for all benefits and tax credits, 2015–16
+[Introduction](https://leiareid.github.io/austerity/)
 
-https://www.ifs.org.uk/publications/1718
+[Devolved funding & education](https://leiareid.github.io/funding/)
 
-This figure assumes that the division of the total cost of child benefit and guardian’s allowance between the two benefits is the same for GB and the UK. Source: HMRC, Annual Report and Accounts 2015–16, https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/539608/HMRC_Annual_Rep ort_and_Accounts_2015-16-web.pdf.
+[Teaching](https://leiareid.github.io/teaching/)
 
-The division of the total personal tax credit bill between child and working tax credit assumes the tapering of tax credit entitlement reduces working tax credit before child tax credit. This is consistent with HMRC practice. Source: HMRC, Annual Report and Accounts 2015–16, https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/539608/HMRC_Annual_Rep ort_and_Accounts_2015-16-web.pdf. d This figure assumes that the division of the total tax credit bill between WTC and CTC is the same for GB and the UK.
+[Mental Health and mobility, in education](https://leiareid.github.io/example/)
 
-https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/articles/howisthewelfarebudgetspent/2016-03-16
-https://obr.uk/forecasts-in-depth/brief-guides-and-explainers/an-obr-guide-to-welfare-spending/
+[Child Mobility Comparison](https://leiareid.github.io/comparison/)
 
+[Sources](https://leiareid.github.io/sources/)
