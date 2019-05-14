@@ -15,12 +15,11 @@
 ## Austerity's affect on child welfare spending, and child mobility
 
 Although education was protected from austerity measures, welfare was not. Since the beginning of austerity welfare has taken some of the biggest hits. These cuts hit the most socioeconomically deprived in Britain. This matters to child mobility because this is the basic start we give all of our children in Britain. If we cannot level the playing field, or provide enough money for families to support children, children will suffer and continue to live in poverty. 
- 
- 
-<iframe height="545px" width="100%" src="https://www.ons.gov.uk/visualisations/dvc457/contentGA.html"></iframe>
-Source: This is the ONS's line chart, which explains perfectly how welfare was divided in 2016/17.
 
 In 2016/17, the UK government spent £264 billion on welfare, a 34% total of all government spending. In 2012/13, the government spent £253 billion on welfare, which equated to 35% of total government spending.
+
+<iframe height="545px" width="100%" src="https://www.ons.gov.uk/visualisations/dvc457/contentGA.html"></iframe>
+**Source: This is the ONS's line chart, which explains perfectly how welfare was divided in 2016/17.**
  
 Historically, child benefit is the universal payment for parents or guardians bringing up children, but since 2013, means tested as part of austerity measures,  via the ‘high income child benefit charge’. It removed eligibility for child benefit from families with at least one parent earning more than £60,000 and reduced awards for those with one earning between £50,000 and £60,000. 
  
